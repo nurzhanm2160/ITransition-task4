@@ -1,26 +1,4 @@
-
-./backend/
-    Dockerfile
-    main.ts
-    package.json
-./frontend
-    Dockerfile
-    ./public
-        vite.svg
-    ./src
-        ./assets
-        App.css
-        App.tsx
-        index.css
-        main.tsx
-        vite-end.d.ts
-    .eslintrc.cjs
-    .gitignore
-    index.html
-    package.json
-    README.md
-    tsconfig.json
-    tsconfig.node.json
-    vite.config.ts 
-.gitignore
-docker-compose.yml
+# Задание №4.
+## Команды:
+### docker-compose up --build -d для запуска проекта
+### cd backend & npm run build для сборки backend'а
