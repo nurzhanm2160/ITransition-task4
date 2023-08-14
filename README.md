@@ -1,0 +1,26 @@
+
+./backend/
+    Dockerfile
+    main.ts
+    package.json
+./frontend
+    Dockerfile
+    ./public
+        vite.svg
+    ./src
+        ./assets
+        App.css
+        App.tsx
+        index.css
+        main.tsx
+        vite-end.d.ts
+    .eslintrc.cjs
+    .gitignore
+    index.html
+    package.json
+    README.md
+    tsconfig.json
+    tsconfig.node.json
+    vite.config.ts 
+.gitignore
+docker-compose.yml
